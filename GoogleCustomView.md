@@ -55,6 +55,7 @@ public InteractiveLineGraphView(Context context, AttributeSet attrs, int defStyl
 - 显而易见的属性不用写注释
 - 属性命名见名知意
 - 本地属性用m开头
+
 这一些规范其实阿里的Java编程规范写的很详细，可以好好研究一番
 
 #### 标准写法
