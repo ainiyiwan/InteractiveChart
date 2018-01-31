@@ -6,3 +6,7 @@
 <center>
 ![](https://github.com/ainiyiwan/InteractiveChart/blob/master/gif/chat.gif)
 </center>
+
+<div align=center>
+![](https://github.com/ainiyiwan/InteractiveChart/blob/master/gif/chat.gif)
+</div>
