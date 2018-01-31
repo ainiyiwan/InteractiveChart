@@ -436,7 +436,7 @@ public class InteractiveLineGraphView extends View {
         if (digits > POW10.length) {
             digits = POW10.length - 1;
         }
-        val *= POW10[digits];
+        val *= POW10[digits];//ArrayIndexOutOfBoundsException
         long lval = Math.round(val);
         int index = out.length - 1;
         int charCount = 0;
